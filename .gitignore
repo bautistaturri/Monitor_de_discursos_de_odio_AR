@@ -1,0 +1,8 @@
+accounts.db
+*.db
+.Rhistory
+.RDataTmp
+*.RData
+__pycache__/
+*.pyc
+.env
